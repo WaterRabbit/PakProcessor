@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PAK processor' target in the 'PAK processor' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
